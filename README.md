@@ -1,5 +1,4 @@
 # Jogo MNK - Fundamentos da Programacao (FP)
-Este foi o meu primeiro contacto com a programação. Contém alguns erros de implementação.
 
 **Jogo MNK - Fundamentos da Programação**
 
@@ -20,3 +19,5 @@ O programa implementa três níveis de dificuldade para o computador, utilizando
 - Difícil: Utiliza uma lógica mais avançada que combina a procura de vitória imediata com a simulação de jogos até ao fim para prever o melhor resultado possível (Vitória ou Empate).
 
 O código python está explicado mais detalhadamente, função a função, no ficheiro pdf. Para o conseguir ler é necessário baixá-lo.
+
+Este foi o meu primeiro contacto com a programação. Contém alguns erros de implementação.
